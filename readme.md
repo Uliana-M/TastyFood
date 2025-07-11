@@ -67,7 +67,7 @@ TastyFood - это удобное Android-приложение, созданно
 - **Material Icons Extended** - система иконок
     
 ## ⚙️ Настройка и установка
-![android.png](android.png)
+![android.jpg](android.jpg)
 ## **Минимальные требования**
 
 Для сборки потребуется:
